@@ -1,0 +1,32 @@
+    <html>
+        <head>
+          
+          
+          
+       </head>
+       <body>
+          
+        <div id="container"></div>
+     
+        <script type="text/javascript">
+              
+          var obj   = {a: 123, b: "4 5 6"};
+          var data  = "text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(obj));
+     
+          var a       = document.createElement('a');
+          a.href      = 'data:' + data;
+          a.download  = 'data.txt';
+          a.innerHTML = 'download .txt file of json';
+		  a.click();
+		  //var fso = new ActiveXObject("Scripting.FileSystemObject");
+			//fso.CopyFile ("C:\\Users\\Alfa\\Downloads\\data.txt", "C:\\Users\\Alfa\\Documents\\Kurs\\Project\\CD-Verwaltung\\");
+		var myObject, f;
+        myObject = new ActiveXObject("Scripting.FileSystemObject");
+        f =   myObject.GetFile("C:\\Users\\Alfa\\Downloads\\data.txt");
+        f.Move("C:\\temp");
+     
+          //document.getElementById('container').appendChild(a);
+     
+          </script>
+       </body>
+    </html>
