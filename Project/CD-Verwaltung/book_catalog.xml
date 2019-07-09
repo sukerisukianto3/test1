@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<BOOK>
+<TITLE>Kaffee und Zigaretten</TITLE>
+<AUTHOR>Ferdinand von Schirach</AUTHOR>
+<ISBN>EAN: 9783630876108</ISBN>
+<LANGUAGE>DEUTSCH</LANGUAGE>
+<PRICE>20.00</PRICE>
+<YEAR>März 2019</YEAR>
+<QUANTITY>20</QUANTITY>
+<PUBLISHER>Springer</PUBLISHER>
+<DESC>Ferdinand von Schirach verwebt autobiographische Erzählungen, Aperçus, Notizen und Beobachtungen zu einem erzählerischen Ganzen, 
+in dem sich Privates und Allgemeines berühren, verzahnen und wechselseitig spiegeln. Es geht um prägende Erlebnisse, um Entwurzelung, 
+um Kunst und Gesellschaft und um das, was den Menschen erst eigentlich zum Menschen macht.
+</DESC>
+</BOOK>
+<BOOK>
+<TITLE>Queen of Air and Darkness</TITLE>
+<AUTHOR>Clare, Cassandra</AUTHOR>
+<ISBN>EAN: 9783442314263</ISBN>
+<LANGUAGE>DEUTSCH</LANGUAGE>
+<PRICE>20.00</PRICE>
+<YEAR>Juni 2019</YEAR>
+<QUANTITY>10</QUANTITY>
+<PUBLISHER>Burda</PUBLISHER>
+<DESC>Die Gemeinschaft der Schattenjäger steht kurz vor einem Bürgerkrieg. Unversöhnlicher Hass erfüllt die einzelnen Gruppen, 
+nd auf den Stufen des Ratssaales ist unschuldiges Blut vergossen worden. Auch die Blackthorns haben einen schrecklichen Verlust erlitten, 
+und in tiefer Trauer flieht die Familie nach Los Angeles. Nur Julian und Emma machen sich auf den Weg ins Feenreich.
+</DESC>
+</BOOK>
+<BOOK>
+<TITLE>Ein Sohn ist uns gegeben</TITLE>
+<AUTHOR>Leon, Donna</AUTHOR>
+<ISBN>EAN: 9783257070606</ISBN>
+<LANGUAGE>DEUTSCH</LANGUAGE>
+<PRICE>24.00</PRICE>
+<YEAR>2019</YEAR>
+<QUANTITY>10</QUANTITY>
+<PUBLISHER>Diogenes</PUBLISHER>
+<DESC>Gonzalo Rodríguez de Tejeda - ursprünglich aus Spanien stammend - hat im Kunsthandel ein Vermögen gemacht. 
+Nun verbringt er seinen Lebensabend in Venedig. Was kommt dann? Brunettis Schwiegervater fürchtet, 
+seinem Freund Gonzalo könne Übles zustoßen. Der Commissario soll helfen.
+</DESC>
+</BOOK>
+<BOOK>
+<TITLE>Becoming</TITLE>
+<AUTHOR>Obama, Michelle</AUTHOR>
+<ISBN>EAN: 9783442314874</ISBN>
+<LANGUAGE>DEUTSCH</LANGUAGE>
+<PRICE>26.00</PRICE>
+<YEAR>November 2018</YEAR>
+<QUANTITY>10</QUANTITY>
+<PUBLISHER>Goldmann</PUBLISHER>
+<DESC>Als erste afro-amerikanische First Lady der USA wurde Michelle Obama zu einer energischen Fürsprecherin für die Rechte von Frauen und Mädchen in der ganzen Welt,
+ setzte sich für einen dringend notwendigen gesellschaftlichen Wandel hin zu einem gesünderen und aktiveren Leben ein und stärkte 
+ außerdem ihrem Ehemann den Rücken. In diesem Buch erzählt sie nun ihre Geschichte.
+</DESC>
+</BOOK>
+<BOOK>
+<TITLE>Der Ernährungskompass</TITLE>
+<AUTHOR>Kast, Bas</AUTHOR>
+<ISBN>EAN: 9783570103197</ISBN>
+<LANGUAGE>DEUTSCH</LANGUAGE>
+<PRICE>24.00</PRICE>
+<YEAR>2018</YEAR>
+<QUANTITY>30</QUANTITY>
+<PUBLISHER>C. Bertelsmann</PUBLISHER>
+<DESC>Als der Wissenschaftsjournalist Bas Kast gerade 40-jährig mit Schmerzen in der Brust zusammenbrach, stellte sich ihm eine existenzielle Frage: Hatte er mit Junkfood
+ seine Gesundheit ruiniert? Er nahm sich vor, seine Ernährung radikal umzustellen. Doch was ist wirklich gesund?.
+</DESC>
+</BOOK>
+<BOOK>
+    <TITLE>XQuery Kick Start</TITLE>
+    <AUTHOR>James McGovern</AUTHOR>
+	<ISBN>EAN: 9783570103197</ISBN>
+	<LANGUAGE>ENGLISH</LANGUAGE>
+    <YEAR>2003</YEAR>
+    <PRICE>49.99</PRICE>
+	<QUANTITY>30</QUANTITY>
+	<PUBLISHER></PUBLISHER>
+	<DESC></DESC>
+</BOOK>
+</CATALOG>
